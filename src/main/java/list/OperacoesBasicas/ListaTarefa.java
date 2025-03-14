@@ -40,6 +40,7 @@ public class ListaTarefa {
         listaTarefa.adicionarTarefa("Codar");
         listaTarefa.adicionarTarefa("Almoçar");
         listaTarefa.adicionarTarefa("Codar");
+        listaTarefa.adicionarTarefa("Dormir");
 
         System.out.println("O número de elementos na minha lista é: " + listaTarefa.obterNumeroTotalTarefas());
 
