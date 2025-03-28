@@ -102,7 +102,7 @@ Crie uma classe chamada "CadastroProdutos" que possui um conjunto de objetos do 
 ### 2. Lista de Alunos
 
 <p>
-Crie uma classe chamada "GerenciadorAlunos" que irá lidar com uma lista de alunos. Cada aluno terá atributos como nome, matrícula e nota. Implementaremos os seguintes métodos:
+Crie uma classe chamada "GerenciadorAlunos" que irá lidar com uma lista de alunos. Cada aluno terá atributos como nome, matrícula e media. Implementaremos os seguintes métodos:
 
 - `adicionarAluno(String nome, Long matricula, double media)`: Adiciona um aluno ao conjunto.
 - `removerAluno(long matricula)`: Remove um aluno ao conjunto a partir da matricula, se estiver presente.
